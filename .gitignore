@@ -1,0 +1,13 @@
+
+
+# finder
+.DS_Store
+
+## User settings
+xcuserdata/
+
+
+*.xcodeproj
+
+
+
